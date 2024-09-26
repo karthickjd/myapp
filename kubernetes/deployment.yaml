@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: karthick1616/myapp-v2:v1
+        image: karthick1616/myapp-v2:v2
         ports:
         - containerPort: 80
